@@ -9,3 +9,4 @@ def say_goodbye():
 
 def new():
     print('New function')
+    
